@@ -75,22 +75,6 @@ src/
 - `useUpdateCategory` - Atualiza categoria existente
 - `useDeleteCategory` - Deleta categoria
 
-## 📚 Documentação
-
-### Documentação Completa
-- **[HOOKS_DOCUMENTATION.md](./HOOKS_DOCUMENTATION.md)** - Documentação detalhada de todos os hooks com exemplos
-- **[HOOKS_SUMMARY.md](./HOOKS_SUMMARY.md)** - Resumo visual dos hooks criados
-- **[DASHBOARD_HOOK.md](./DASHBOARD_HOOK.md)** - Documentação específica do hook de dashboard
-
-### Sistemas Auxiliares
-- **[BADGE_COLORS.md](./BADGE_COLORS.md)** - Sistema de cores das categorias
-- **[CATEGORY_ICONS.md](./CATEGORY_ICONS.md)** - Sistema de ícones das categorias
-- **[ICONS_REFERENCE.md](./ICONS_REFERENCE.md)** - Referência de ícones Lucide disponíveis
-- **[TOKEN_MANAGEMENT.md](./TOKEN_MANAGEMENT.md)** - Gerenciamento de tokens JWT
-
-### Mapeamento Backend/Frontend
-- **[../BACKEND_FRONTEND_MAPPING.md](../BACKEND_FRONTEND_MAPPING.md)** - Mapeamento completo entre serviços backend e hooks frontend
-
 ## 🚀 Como Usar
 
 ### Instalação
@@ -278,9 +262,6 @@ Todos os tipos estão definidos em `src/types/index.ts`:
 - E mais...
 
 ## 🧪 Próximos Passos
-
-- [ ] Implementar páginas de transações
-- [ ] Implementar páginas de categorias
 - [ ] Adicionar testes unitários
 - [ ] Adicionar testes E2E
 - [ ] Implementar exportação de dados (CSV, PDF)
@@ -300,6 +281,4 @@ MIT License
 
 ---
 
-**Desenvolvido com ❤️ por [Seu Nome]**
-
-Para mais detalhes, consulte a [documentação completa](./HOOKS_DOCUMENTATION.md).
+**Desenvolvido com ❤️ por Gabriela Liz**
